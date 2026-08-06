@@ -1,1 +1,78 @@
-{"version":1,"minAppBuild":63,"documents":[{"file":"ex-bendir-0.pdf","id":"ex-bendir-0","name":{"en":"2/4 Exercise Composition","tr":"2/4 Exercise Composition"},"inst":"bendir","sigLabel":"2/4","tempo":96,"tags":[]},{"file":"ex-bendir-1.pdf","id":"ex-bendir-1","name":{"en":"4/4 Exercise Composition","tr":"4/4 Exercise Composition"},"inst":"bendir","sigLabel":"4/4","tempo":96,"tags":[]},{"file":"ex-bendir-2.pdf","id":"ex-bendir-2","name":{"en":"5/8 Exercise Composition","tr":"5/8 Exercise Composition"},"inst":"bendir","sigLabel":"5/8","tempo":96,"tags":[]},{"file":"ex-bendir-3.pdf","id":"ex-bendir-3","name":{"en":"7/16 Exercise Composition","tr":"7/16 Exercise Composition"},"inst":"bendir","sigLabel":"7/16","tempo":96,"tags":[]},{"file":"ex-erbane-4.pdf","id":"ex-erbane-4","name":{"en":"2/4 & 4/4 Mixed Exercise Composition","tr":"2/4 & 4/4 Mixed Exercise Composition"},"inst":"erbane","sigLabel":"2/4 · 4/4","tempo":96,"tags":[]},{"file":"ex-erbane-5.pdf","id":"ex-erbane-5","name":{"en":"4/4 Exercise Composition","tr":"4/4 Exercise Composition"},"inst":"erbane","sigLabel":"4/4","tempo":96,"tags":[]},{"file":"ex-erbane-6.pdf","id":"ex-erbane-6","name":{"en":"9/8 Exercise Composition","tr":"9/8 Exercise Composition"},"inst":"erbane","sigLabel":"9/8","tempo":96,"tags":[]},{"file":"ex-erbane-7.pdf","id":"ex-erbane-7","name":{"en":"11/8 Exercise Composition","tr":"11/8 Exercise Composition"},"inst":"erbane","sigLabel":"11/8","tempo":96,"tags":[]},{"file":"ex-handpan-0.pdf","id":"ex-handpan-0","name":{"en":"Handpan Groove","tr":"Handpan Groove"},"inst":"handpan","sigLabel":"4/4","tempo":96,"tags":[]},{"file":"ex-handpan-1.pdf","id":"ex-handpan-1","name":{"en":"Handpan Waltz","tr":"Handpan Waltz"},"inst":"handpan","sigLabel":"3/4","tempo":96,"tags":[]},{"file":"ex-handpan-2.pdf","id":"ex-handpan-2","name":{"en":"Handpan Flow","tr":"Handpan Flow"},"inst":"handpan","sigLabel":"6/8","tempo":96,"tags":[]},{"file":"ex-handpan-3.pdf","id":"ex-handpan-3","name":{"en":"Handpan Pulse","tr":"Handpan Pulse"},"inst":"handpan","sigLabel":"7/8","tempo":96,"tags":[]}]}
+{
+ "version": 2,
+ "minAppBuild": 63,
+ "documents": [
+  {
+   "file": "hp-walking-melody.pdf",
+   "id": "hp-walking-melody",
+   "inst": "handpan",
+   "tempo": 80
+  },
+  {
+   "file": "hp-arpeggios.pdf",
+   "id": "hp-arpeggios",
+   "inst": "handpan",
+   "tempo": 64
+  },
+  {
+   "file": "hp-balanced.pdf",
+   "id": "hp-balanced",
+   "inst": "handpan",
+   "tempo": 60
+  },
+  {
+   "file": "hp-trance.pdf",
+   "id": "hp-trance",
+   "inst": "handpan",
+   "tempo": 80
+  },
+  {
+   "file": "bd-44-composition.pdf",
+   "id": "bd-44-composition",
+   "inst": "bendir",
+   "tempo": 85
+  },
+  {
+   "file": "bd-baladi.pdf",
+   "id": "bd-baladi",
+   "inst": "bendir",
+   "tempo": 85
+  },
+  {
+   "file": "bd-duyek.pdf",
+   "id": "bd-duyek",
+   "inst": "bendir",
+   "tempo": 85
+  },
+  {
+   "file": "bd-saidi.pdf",
+   "id": "bd-saidi",
+   "inst": "bendir",
+   "tempo": 85
+  },
+  {
+   "file": "er-24-44-mixed.pdf",
+   "id": "er-24-44-mixed",
+   "inst": "erbane",
+   "tempo": 100
+  },
+  {
+   "file": "er-34-composition.pdf",
+   "id": "er-34-composition",
+   "inst": "erbane",
+   "tempo": 108
+  },
+  {
+   "file": "er-teke-etudu.pdf",
+   "id": "er-teke-etudu",
+   "inst": "erbane",
+   "tempo": 62
+  },
+  {
+   "file": "er-eyyub.pdf",
+   "id": "er-eyyub",
+   "inst": "erbane",
+   "tempo": 64
+  }
+ ]
+}

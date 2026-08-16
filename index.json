@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "minAppBuild": 63,
  "documents": [
   {
@@ -73,6 +73,41 @@
    "id": "er-eyyub",
    "inst": "erbane",
    "tempo": 64
+  },
+  {
+   "file": "er-44-easy-1.pdf",
+   "id": "er-44-easy-1",
+   "inst": "erbane",
+   "tempo": 80,
+   "name": {"en": "4/4 erbane study (easy)", "tr": "4/4 erbane çalışması (kolay)"}
+  },
+  {
+   "file": "er-44-easy-2.pdf",
+   "id": "er-44-easy-2",
+   "inst": "erbane",
+   "tempo": 80,
+   "name": {"en": "4/4 erbane study 2 (easy)", "tr": "4/4 erbane çalışması 2 (kolay)"}
+  },
+  {
+   "file": "er-44-easy-3.pdf",
+   "id": "er-44-easy-3",
+   "inst": "erbane",
+   "tempo": 80,
+   "name": {"en": "4/4 erbane study 3 (easy)", "tr": "4/4 erbane çalışması 3 (kolay)"}
+  },
+  {
+   "file": "er-44-ka-easy.pdf",
+   "id": "er-44-ka-easy",
+   "inst": "erbane",
+   "tempo": 92,
+   "name": {"en": "4/4 erbane ka study (easy)", "tr": "4/4 erbane ka nota çalışması (kolay)"}
+  },
+  {
+   "file": "er-44-zincir-easy.pdf",
+   "id": "er-44-zincir-easy",
+   "inst": "erbane",
+   "tempo": 64,
+   "name": {"en": "4/4 erbane chain study (easy)", "tr": "4/4 erbane zincir nota çalışması (kolay)"}
   }
  ]
 }

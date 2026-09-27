@@ -97,6 +97,13 @@
    "pro": true
   },
   {
+   "file": "hp-kai.pdf",
+   "id": "hp-kai",
+   "inst": "handpan",
+   "tempo": 120,
+   "pro": true
+  },
+  {
    "file": "bd-44-composition.pdf",
    "id": "bd-44-composition",
    "inst": "bendir",
